@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
-fsf dfdfds dfdfs fsdfds sdfsd.
+## Website Content
 
-
-dsdsdsdsds.
+1. Home
